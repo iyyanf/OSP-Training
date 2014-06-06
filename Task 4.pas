@@ -1,8 +1,7 @@
-var r,luas,keliling,phi:udouble;
+var r,luas,keliling:double;
 begin
-phi:= 22/7;
 readln(r);
-luas:= sqr(r)*phi;
-keliling:= 2*phi*r;
-writeln('luas = ',luas:0:2,' keliling = ',keliling:0:2);
+luas:= sqr(r)*pi;
+keliling:= 2*pi*r;
+writeln('luas = ',luas:0:3,' keliling = ',keliling:0:3);
 end.

@@ -1,4 +1,4 @@
 OSP-Training
 ============
 
-Submit of every task when Province Training
+Submission of every task when Province Training

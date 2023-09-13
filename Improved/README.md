@@ -33,9 +33,9 @@ You may also use Pascal IDE such as Lazarus for more Delphi-like features.
 
 ![image](images/fpc.png)
 
-For this work, as everything done in Bash on Arch-Linux, it use VIm editor
+For this rework, as everything done in Bash on Arch-Linux, it use VIm editor
 
-
+![image](images/editor.png)
 
 ---
 
@@ -74,6 +74,14 @@ Here result screenshot of each programs
 ### Task 1
 
 ![image](images/task_1.png)
+
+### Task 2
+
+![image](images/task_2.png)
+
+### Task 3
+
+![image](images/task_3.png)
 
 
 

@@ -47,6 +47,17 @@ end.
 
 Then, run compiler program:
 
+```sh
+fpc -oapp hello.pas
+```
+
+It will compile the source into program named **app**.
+Then you can test the output program.
+
+```sh
+./app
+```
+
 ![image](images/example.png)
 
 

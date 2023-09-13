@@ -29,8 +29,6 @@ To install FPC on Debian or its derivative like Spiral, Ubuntu, etc:
 sudo apt-get install fpc
 ```
 
-You may also use Pascal IDE such as Lazarus for more Delphi-like features.
-
 ![image](images/fpc.png)
 
 For this rework, as everything done in Bash on Arch-Linux, it use VIm editor

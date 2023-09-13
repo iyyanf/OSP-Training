@@ -6,6 +6,7 @@ This is improved version of old works.
 
 ## Contents
 - [Installation](https://github.com/mekatronik-achmadi/OSP-Training/tree/master/Improved#installation)
+- [Compiling](https://github.com/mekatronik-achmadi/OSP-Training/tree/master/Improved#compiling)
 
 ---
 
@@ -27,11 +28,26 @@ To install FPC on Debian or its derivative like Spiral, Ubuntu, etc:
 sudo apt-get install fpc
 ```
 
-You may also use Pascal IDE such as Lazarus for more feature like GUIs.
+You may also use Pascal IDE such as Lazarus for more Delphi-like features.
 
 ![image](images/fpc.png)
 
+---
 
+## Compiling
+
+Here some basic Pascal example saved as **hello.pas**:
+
+```delphi
+program Hello;
+begin
+  writeln ('Hello, world.');
+end.
+```
+
+Then, run compiler program:
+
+![image](images/example.png)
 
 
 

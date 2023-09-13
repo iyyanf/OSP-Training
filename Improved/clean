@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -vf *.o
+rm -vf app

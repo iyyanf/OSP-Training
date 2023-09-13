@@ -7,6 +7,7 @@ This is improved version of old works.
 ## Contents
 - [Installation](https://github.com/mekatronik-achmadi/OSP-Training/tree/master/Improved#installation)
 - [Compiling](https://github.com/mekatronik-achmadi/OSP-Training/tree/master/Improved#compiling)
+- [Results](https://github.com/mekatronik-achmadi/OSP-Training/tree/master/Improved#results)
 
 ---
 
@@ -31,6 +32,10 @@ sudo apt-get install fpc
 You may also use Pascal IDE such as Lazarus for more Delphi-like features.
 
 ![image](images/fpc.png)
+
+For this work, as everything done in Bash on Arch-Linux, it use VIm editor
+
+
 
 ---
 
@@ -59,6 +64,17 @@ Then you can test the output program.
 ```
 
 ![image](images/example.png)
+
+---
+
+## Results
+
+Here result screenshot of each programs
+
+### Task 1
+
+![image](images/task_1.png)
+
 
 
 

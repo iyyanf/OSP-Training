@@ -29,4 +29,9 @@ sudo apt-get install fpc
 
 You may also use Pascal IDE such as Lazarus for more feature like GUIs.
 
+![image](images/fpc.png)
+
+
+
+
 
